@@ -62,13 +62,12 @@ const laojichao = {
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laojichao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=laojichao&theme=tokyonight&hide_border=true&background=00000000" height="160" alt="GitHub Streak">
+  <img src="./profile/stats.svg" height="160" alt="GitHub Stats">
+  <img src="./profile/streak.svg" height="160" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laojichao&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="160" alt="Top Languages">
-  <img src="https://github-profile-trophy.vercel.app/?username=laojichao&theme=tokyonight&no-bg=true&no-frame=true&column=5&margin-w=5" height="160" alt="Trophies">
+  <img src="./profile/top-langs.svg" height="160" alt="Top Languages">
 </p>
 
 ---
@@ -77,9 +76,9 @@ const laojichao = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laojichao/laojichao/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laojichao/laojichao/output/github-contribution-grid-snake.svg">
-    <img alt="contribution-snake" src="https://raw.githubusercontent.com/laojichao/laojichao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg">
+    <img alt="contribution-snake" src="./profile/snake-dark.svg">
   </picture>
 </p>
 
